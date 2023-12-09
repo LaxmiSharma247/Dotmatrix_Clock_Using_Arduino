@@ -9,8 +9,6 @@ https://wokwi.com/
 
 ![image](https://github.com/LaxmiSharma247/Dotmatrix_Clock_Using_Arduino/assets/112362299/3d41f424-ec48-4869-ab97-9de467425cf0)
 
-3. Adding DHT-22 Sensor
-
 ![image](https://github.com/LaxmiSharma247/Dotmatrix_Clock_Using_Arduino/assets/112362299/437dfd62-e3d8-42ec-b4b2-40ed5f79f160)
 
 4. Adding RTC Module

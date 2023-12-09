@@ -22,7 +22,11 @@ https://wokwi.com/
 5. Complete Model
 ![image](https://github.com/LaxmiSharma247/Dotmatrix_Clock_Using_Arduino/assets/112362299/99dfe841-bb94-432d-b642-22f3cca86938)
 
-
+Refernce :
+1. https://www.youtube.com/watch?v=r6InjD-NdSM&t=3s
+2. https://trello.com/b/wDmqlD1a/personal
+3. https://wokwi.com/projects/328451800839488084
+4. wokwi.com
 
 
 

@@ -1,6 +1,6 @@
 # Dotmatrix_Clock_Using_Arduino
-# Device: Multi-Info Display
-# Objective: 
+* Device: Multi-Info Display
+* Objective: 
 - The MID's goal is to deliver comprehensive real-time information at a glance, providing users with a rapid view of critical data such as time, weather (temperature and humidity), and calendar details.
 ![image](https://github.com/LaxmiSharma247/Dotmatrix_Clock_Using_Arduino/assets/112362299/2ebae531-ed98-441e-a5b6-2710a548f827)
 
